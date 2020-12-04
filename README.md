@@ -22,8 +22,8 @@
 #### My top programming languages
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/alanJaouen/alanJaouen/blob/master/img/salesforce.svg" alt="apex" height="40"/>
 </p>
 
