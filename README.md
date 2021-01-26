@@ -13,7 +13,7 @@
   
 - 📫 How to reach me: see on profile ;)  
   
-- 📝 I started some articles on [https://medium.com/](https://medium.com/@renanlq), but I need to get back   
+- 📝 I started some articles on [https://medium.com/@renanlq](https://medium.com/@renanlq), but I need to get back   
   
 - ⚡ Fun fact: Addicted to motorcycles and dogs.  
 
