@@ -34,10 +34,10 @@
 
 <p align="left">
   <ul>
-    <li>Oracle</li>
-    <li>PostgresSQL</li>
     <li>MS SQL</li>
     <li>MySQL</li>
+    <li>Oracle</li>
+    <li>PostgresSQL</li>
   </ul>
 </p>
 
