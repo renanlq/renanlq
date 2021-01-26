@@ -22,17 +22,23 @@
 #### My top programming languages
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://github.com/alanJaouen/alanJaouen/blob/master/img/salesforce.svg" alt="apex" height="40"/>
+  <ul>
+    <li>Javascript</li>
+    <li>C#</li>
+    <li>PHP</li>
+    <li>Apex (Salesforce)</li>
+  </ul>
 </p>
 
 #### My top SGBDs
 
 <p align="left">
-  <img src="https://cdn.onlinewebfonts.com/svg/img_252598.png" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <ul>
+    <li>Oracle</li>
+    <li>PostgresSQL</li>
+    <li>MS SQL</li>
+    <li>MySQL</li>
+  </ul>
 </p>
 
 ## Github Stats
