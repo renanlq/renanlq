@@ -3,9 +3,9 @@
 
 ## Recap
 
-- 🏢 I’m currently working at [Telefonica](https://www.telefonica.com/)  
+- 🏢 I’m currently working at [Banco Votorantim](https://www.bv.com.br/)  
   
-- 🔭 I’m currently working on DevOps for Salesforce platform  
+- 🔭 I’m currently working with focus Cloud, more in DevOps for Salesforce platform  
   
 - 🌱 I’m currently learning about Cloud, Servless, DevOps.  
     
