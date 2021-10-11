@@ -49,9 +49,9 @@
 <a href="https://github.com/renanlq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlq&count_private=true&hide_border=true&theme=graywhite&layout=compact" />
 </a>
-<br>
+</br>
 
-##
+## My networks
 
 <p align="center">
   <a href="https://linkedin.com/in/renanlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renan-queiroz" height="30" width="30" /></a>
