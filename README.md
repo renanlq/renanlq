@@ -19,6 +19,16 @@
 
 ## Technologies
 
+### Cloud platforms
+
+<p align="left">
+  <ul>
+    <li>Azure</li>
+    <li>AWS</li>
+    <li>GCP (learning the basics...)</li>
+  </ul>
+</p>
+
 #### My top programming languages
 
 <p align="left">
