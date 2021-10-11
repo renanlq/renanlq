@@ -19,7 +19,7 @@
 
 ## Technologies
 
-### Cloud platforms
+#### Cloud platforms
 
 <p align="left">
   <ul>
