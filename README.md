@@ -54,12 +54,11 @@
 ## Github Stats
 
 <a href="https://github.com/renanlq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renanlq&show_icons=true&hide_border=true&count_private=true&theme=graywhite&include_all_commits=true"/>
-</a>
-<a href="https://github.com/renanlq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlq&count_private=true&hide_border=true&theme=graywhite&layout=compact" />
 </a>
 </br>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+</br> 
 
 ## My networks
 
@@ -72,5 +71,3 @@
   
 Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha  
    
-[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
