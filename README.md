@@ -68,6 +68,9 @@
   <a href="https://trailblazer.me/id?uid=renanlq" target="blank"><img align="center" src="https://github.com/alanJaouen/alanJaouen/blob/master/img/trailhead.svg" alt="renanlq" height="30" width="30" /></a>
   <a href="https://medium.com/@renanlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@renanlq" height="30" width="30" /></a>
 </p>
-</br>  
+</br>
   
-Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha
+Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha  
+   
+[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+ 
