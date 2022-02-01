@@ -17,49 +17,6 @@
   
 - ⚡ Fun fact: Addicted to motorcycles and dogs.  
 
-## Technologies
-
-#### Cloud platforms
-
-<p align="left">
-  <ul>
-    <li>Azure</li>
-    <li>AWS</li>
-    <li>GCP (learning the basics...)</li>
-  </ul>
-</p>
-
-#### My top programming languages
-
-<p align="left">
-  <ul>
-    <li>Javascript</li>
-    <li>C#</li>
-    <li>PHP</li>
-    <li>Apex (Salesforce)</li>
-  </ul>
-</p>
-
-#### My top SGBDs
-
-<p align="left">
-  <ul>
-    <li>MS SQL</li>
-    <li>MySQL</li>
-    <li>Oracle</li>
-    <li>PostgresSQL</li>
-  </ul>
-</p>
-
-## Github Stats
-
-<a href="https://github.com/renanlq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlq&count_private=true&hide_border=true&theme=graywhite&layout=compact" />
-</a>
-</br>
-[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</br> 
-
 ## My networks
 
 <p align="center">
@@ -68,6 +25,13 @@
   <a href="https://medium.com/@renanlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@renanlq" height="30" width="30" /></a>
 </p>
 </br>
+
+## Github Stats
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</br> 
+
   
 Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha  
    
