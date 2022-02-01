@@ -18,7 +18,7 @@
 </p>
 
 ## Github Stats
-[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=onedark&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </br> 
   
 Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha  
