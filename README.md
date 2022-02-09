@@ -13,7 +13,7 @@
 ## My networks
 <p align="center">
   <a href="https://linkedin.com/in/renanlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renan-queiroz" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://trailblazer.me/id?uid=renanlq" target="blank"><img align="center" src="https://github.com/alanJaouen/alanJaouen/blob/master/img/trailhead.svg" alt="renanlq" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://trailblazer.me/id/renanlq" target="blank"><img align="center" src="https://github.com/alanJaouen/alanJaouen/blob/master/img/trailhead.svg" alt="renanlq" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@renanlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@renanlq" height="50" width="50" /></a>
 </p>
 
