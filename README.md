@@ -18,8 +18,11 @@
 </p>
 
 ## Github Stats
-[![Trophy](https://github-profile-trophy.vercel.app/?username=renanlq&theme=onedark&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</br> 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renanlq&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renanlq&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renanlq&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renanlq&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=renanlq&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
   
-Special thanks for [Alan Jaouen](https://github.com/alanJaouen), about readme profile idea hahaha  
+Special thanks for [Alan Jaouen](https://github.com/alanJaouen) and [Arthur Coutinho](https://github.com/arthurspk), about README profile idea hahaha 
    
